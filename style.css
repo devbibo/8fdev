@@ -1,0 +1,61 @@
+*{
+    text-align: center;
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family: 'Cherry Bomb One';
+    font-weight: 100;
+    background: linear-gradient(to left , rgb(76, 88, 126) , blue, rgb(76, 88, 126));
+}
+
+
+a{
+    text-decoration: none;
+    font-size: 1.4em;
+    background: transparent;
+}
+
+img{
+    background: transparent;
+}
+
+.txt-lg{
+    margin-right: 900px;
+    font-size: 2em;
+    display: inline-block;
+    margin-top: 10px;
+    color: rgb(228, 204, 250);
+    z-index: 999;
+}
+.abt-sctn , .mbti-sctn{
+    margin-right: 10px;
+}
+
+.abt-sctn , .mbti-sctn , .fnc-sctn{
+    transition: 0.2s ease;
+}
+
+.abt-sctn:hover , .mbti-sctn:hover , .fnc-sctn:hover{
+    color: rgb(228, 204, 250);
+}
+
+.txt-lg-x{
+    font-size: 6em;
+    margin-top: 20px;
+    color: rgb(228, 204, 250);
+}
+
+.dsc1{
+    font-size: 1.4em;
+}
+
+.t-rctn{
+    width: 500px;
+    margin-top: 23px;
+    cursor: pointer;
+}
+
+h1{
+    margin-top: 345px;
+}
